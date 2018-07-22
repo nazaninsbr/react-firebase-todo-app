@@ -15,3 +15,4 @@ change the `var config` in `./src/config/config.js` to your own keys
 
 ### What it looks like
 
+<img src="./img.png">
