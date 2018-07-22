@@ -10,7 +10,7 @@ install :
 </ul> 
 
 change:<br>
-change the `var config` in `./src/App.js` to your own keys
+change the `var config` in `./src/config/config.js` to your own keys
 
 
 ### What it looks like
